@@ -1,0 +1,36 @@
+*{
+margin: 0;
+
+}
+header{
+    display: flex;
+    background-color: black;
+    height: 80px;
+}
+.logo h1{
+    color: aliceblue;
+    padding-top: 15px;
+    padding-left: 5px;
+    color: rgb(117, 72, 108);
+}
+nav a {
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-left: 5vh;
+    color: aliceblue;
+    opacity: .5;
+
+
+}
+
+ a:hover{
+        opacity: 1;
+   
+        
+}
+nav{
+    margin-left: 30%;
+    padding-top: 20px;
+
+
+}
